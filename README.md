@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hey, I'm Jason Boox
 
-<!--
-**jasonbu163/jasonbu163** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 *"Life is your real journey, while work is just the oil that keeps it running smoothly."*
 
-Here are some ideas to get you started:
+I'm building modern **Warehouse Control Systems (WCS)** and **Industrial IoT** platforms,  
+with a strong focus on **Python, FastAPI, MQTT, and C# legacy migration**.  
+I enjoy designing scalable architectures and helping machines talk to each other 🤖📡.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🔭 Currently working on: **Shuttle Car Control System + IoT Gateway**
+- 🌱 Exploring: **AsyncIO, Docker deployments, and edge computing**
+- 💬 Ask me about: **FastAPI, Streamlit dashboards, PLC integration**
+- ⚡ Fun fact: I think industrial automation systems should be as smooth as good music 🎶
+
+---
+
+## 🛠️ Tech Stack
+**Languages & Frameworks:**  
+`Python` | `FastAPI` | `Streamlit` | `C#` | `WinForms (legacy)`  
+
+**Databases:**  
+`SQLite` | `PostgreSQL` | `SQLAlchemy ORM`  
+
+**Industrial / IoT:**  
+`MQTT` | `PLC (Siemens S7)` | `Socket Protocols` | `Raspberry Pi`  
+
+**DevOps / Tools:**  
+`Docker` | `GitHub Actions` | `Conda`  
+
+---
+
+## 📊 GitHub Analytics
+![Stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical)  
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=radical)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=你的用户名&theme=radical)  
+
+---
+
+## 🌏 Connect with Me
+- 👾 Gitee: *[[Gitee](https://gitee.com/jasonbu163)]*  
+- 💼 LinkedIn: *[[LinkedIn](https://www.linkedin.com/in/zhaoxiong-bu-32038b300)]*  
+- 📫 Email: *[[Email](jasonbu163@163.com)]*  
+
+---
+
+✨ Thanks for visiting my profile! Always open to collaboration on **industrial + cloud** projects 🚀
