@@ -41,7 +41,7 @@ I enjoy designing scalable architectures and helping machines talk to each other
 - **📫 Email:** jasonbu163@163.com
 - **🔗 Github:** [@jasonbu163](https://github.com/jasonbu163)
 - **👾 Gitee:** [@jasonbu163](https://gitee.com/jasonbu163)
-- **💼 LinkedIn:** [Connect with me](https://www.linkedin.com/in/zhaoxiong-bu-32038b300/)
+- **💼 LinkedIn:** [Connect with me](https://www.linkedin.com/in/jason-bu-32038b300/)
 
 ---
 
