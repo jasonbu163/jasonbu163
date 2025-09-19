@@ -18,7 +18,7 @@ I enjoy designing scalable architectures and helping machines talk to each other
 
 ## 🛠️ Tech Stack
 **Languages & Frameworks:**  
-`Python` | `FastAPI` | `Streamlit` | `C#` | `WinForms (legacy)`  
+`Python` | `FastAPI` | `Flask` | `Streamlit` | `C#` | `WinForms (legacy)` | `Qt` | `Node-RED`
 
 **Databases:**  
 `SQLite` | `PostgreSQL` | `SQLAlchemy ORM`  
@@ -33,15 +33,15 @@ I enjoy designing scalable architectures and helping machines talk to each other
 
 ## 📊 GitHub Analytics
 ![Stats](https://github-readme-stats.vercel.app/api?username=jasonbu163&show_icons=true&theme=radical)  
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonbu163&layout=compact&theme=radical)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jasonbu163&theme=radical)  
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonbu163&layout=compact&theme=radical)
 
 ---
 
 ## 🌏 Connect with Me
-- 👾 Gitee: *[[Gitee](https://gitee.com/jasonbu163)]*  
-- 💼 LinkedIn: *[[LinkedIn](https://www.linkedin.com/in/zhaoxiong-bu-32038b300)]*  
-- 📫 Email: *[[Email](jasonbu163@163.com)]*  
+- **📫 Email:** jasonbu163@163.com
+- **🔗 Github:** [@jasonbu163](https://github.com/jasonbu163)
+- **👾 Gitee:** [@jasonbu163](https://gitee.com/jasonbu163)
+- **💼 LinkedIn:** [Connect with me](https://www.linkedin.com/in/zhaoxiong-bu-32038b300/)
 
 ---
 
