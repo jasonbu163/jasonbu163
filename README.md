@@ -32,9 +32,9 @@ I enjoy designing scalable architectures and helping machines talk to each other
 ---
 
 ## 📊 GitHub Analytics
-![Stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical)  
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=radical)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=你的用户名&theme=radical)  
+![Stats](https://github-readme-stats.vercel.app/api?username=jasonbu163&show_icons=true&theme=radical)  
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonbu163&layout=compact&theme=radical)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jasonbu163&theme=radical)  
 
 ---
 
